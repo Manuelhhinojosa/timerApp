@@ -1,40 +1,20 @@
----
-# PROJECT : Timer-app.
----
+⏱️ **Timer App**
 
-### Quik Intro :
+An interactive timer app that lets you set, start, and reset your timers with a smooth and simple interface. Built with HTML, CSS, and JavaScript to bring some productivity to your day!
 
-An interactive timer app that displays a simple animation as time goes by
+📝 **About the Project**
 
----
+This app allows users to create customizable timers that can be started and reset. It features an easy-to-use interface and is built to help you stay on track with your time management.
 
-### App Screenshots :
+⚙️ **Technologies & Libraries Used**
 
----
+- HTML
+- CSS
+- JavaScript
+- Netlify
+- Git
 
----
+🔗 **GitHub Repository**: [Timer App GitHub](https://github.com/Manuelhhinojosa/timerApp)  
+🌐 **Live Demo**: [Timer App](https://timermhh.netlify.app)
 
-![Main-page](readme/img1.png)
-
----
-
-![Main-page](readme/img2.png)
-
----
-
----
-
-### Technologies Used :
-
-1. HTML
-2. CSS
-3. JavaScript
-4. git
-5. gitHub
-6. git pages
-
----
-
-### [link](https://manuelhh.github.io/timer-app/) to the app
-
----
+Made with ❤️ by [Manuel H Hinojosa](https://manuelhinojosa.netlify.app).
